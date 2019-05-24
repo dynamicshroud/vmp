@@ -19,7 +19,8 @@ How to use:
 
 	- Space (Pause/Play)
 	- Left/Right Arrow (Rewind/Fast Forward)
-	- Up/Down Arrow (Volume Up/Down);
+	- Up/Down Arrow (Volume Up/Down)
+	- Q (Quit)
 
 Customization:
 
