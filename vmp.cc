@@ -18,7 +18,7 @@ int main(int argc, char** argv){
     // todo: create playlist vector
     std::string path(argv[1]);    
     
-    sf::RenderWindow win(sf::VideoMode(Config::SCREEN_X, Config::SCREEN_Y), "VSSMP 1.0");
+    sf::RenderWindow win(sf::VideoMode(Config::SCREEN_X, Config::SCREEN_Y), "VMP 1.0");
     sf::Font font;
     if(!font.loadFromFile(Config::FONT_DIR)){
         std::cout << "Cannot load font" << std::endl;
