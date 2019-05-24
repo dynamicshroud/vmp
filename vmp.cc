@@ -83,6 +83,9 @@ int main(int argc, char** argv){
                         break;
                     }
                }
+               if(e.key.code == sf::Keyboard::Q){
+                    win.close();
+               }
            }
        }
        if(music.getStatus() == sf::Sound::Stopped){
